@@ -26,7 +26,7 @@
 如果项目中已经存在 `CLAUDE.md` 文件，你可以选择：
 
 1. 将 `CLAUDE.md.example` 文件中的内容添加到 `CLAUDE.md` 文件中即可。
-2. 将 `CLAUDE.md.example` 保存为 `harmony-common-cursorrules.claude.md` 文件，然后在 `.cursorrules` 文件中添加以下说明：
+2. 将 `CLAUDE.md.example` 保存为 `harmony-common-cursorrules.claude.md` 文件，然后在 `CLAUDE.md` 文件中添加以下说明：
 
     ```txt
     在开发鸿蒙原生 app 时，请参考 harmony-common-cursorrules.claude.md 文件中的内容。
